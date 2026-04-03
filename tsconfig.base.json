@@ -1793,8 +1793,8 @@
       "@activepieces/piece-kapso": [
         "packages/pieces/community/kapso/src/index.ts"
       ],
-      "@activepieces/piece-connectuc": [
-        "packages/pieces/community/connectuc/src/index.ts"
+      "@activepieces/piece-connectuc-beta": [
+        "packages/pieces/community/connectuc-beta/src/index.ts"
       ]
     },
     "resolveJsonModule": true
